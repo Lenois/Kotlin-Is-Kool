@@ -21,7 +21,7 @@ class MakeArrayConsecutiveSpek : Spek({
             }
         }
         on("[7,2,5,3]") {
-            val result = makeArrayConsecutive(listOf(0, 3))
+            val result = makeArrayConsecutive(listOf(7,2,5,3))
             it("should equal 2") {
                 result shouldEqual 2
             }
