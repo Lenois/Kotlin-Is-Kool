@@ -25,8 +25,8 @@
         <kotlin.version>1.2.21</kotlin.version>
         <kluent.version>1.35</kluent.version>
         <spek.version>1.1.5</spek.version>
-        <maven.surfire.plugin.version>2.20</maven.surfire.plugin.version>
-        <junit.platform.surefire.provider.version>1.0.3</junit.platform.surefire.provider.version>
+        <maven.surfire.plugin.version>2.19</maven.surfire.plugin.version>
+        <junit.platform.surefire.provider.version>1.1.1</junit.platform.surefire.provider.version>
     </properties>
     <repositories>
         <repository>
