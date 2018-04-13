@@ -13,3 +13,8 @@ fun adjacentElementsProduct(input: List<Int>): Int {
 fun interestingPolygon(n: Int): Int{
     return 0
 }
+//given a list of ints intList find the minimum number of number of ints needed to fill the list
+//with ever int in range min(l) to max(l)
+fun makeArrayConsecutive(intList: List<Int>): Int {
+    return 0
+}
